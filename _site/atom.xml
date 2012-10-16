@@ -4,7 +4,7 @@
  <title>David.Z</title>
  <link href="http://inoyucom.github.com/atom.xml" rel="self"/>
  <link href="http://inoyucom.github.com"/>
- <updated>2012-10-16T16:45:46+08:00</updated>
+ <updated>2012-10-16T17:03:35+08:00</updated>
  <id>http://inoyucom.github.com</id>
  <author>
    <name>David Zheng</name>
@@ -91,7 +91,7 @@
 
 &lt;h2 id='id3'&gt;一、毕业到入行&lt;/h2&gt;
 
-&lt;p&gt;我毕业于某信息工程类强项的军校。这段时间闹的沸沸扬扬的&lt;span&gt;中兴&lt;/span&gt;和&lt;span&gt;华为&lt;/span&gt;公司的中层骨干力量，有一多半是我们学校的老师或学生，甚至现在的我的很多同学都还活跃在这两家公司里面。&lt;/p&gt;
+&lt;p&gt;我毕业于某信息工程类强项的军校。这段时间闹的沸沸扬扬的&lt;a href='http://www.huawei.com'&gt;中兴&lt;/a&gt;和&lt;a href='http://www.huawei.com'&gt;华为&lt;/a&gt;公司的中层骨干力量，有一多半是我们学校的老师或学生，甚至现在的我的很多同学都还活跃在这两家公司里面。&lt;/p&gt;
 
 &lt;p&gt;我的专业当然也是通信相关，但是当时以我对通讯硬件行业的浅薄了解，我得出了软件统治世界的结论。于是我阴差阳错的喜欢上了软件开发。当时比较火的是JAVA，C#之类的企业应用技术。那时候就自学JAVA，自己写小程序，写算法实现，写小网站应用。后来总觉得自己学进度太慢，我和几个朋友还报了个培训班。那段日子很开心，一天的场景就是一寝室都是Java程序员，上午看书听课，下午写代码，晚上看着各自写的代码吵架，吵饿了下楼买麻辣烫，回来写代码写到深夜，天天周而复始。那段时间积累了比一般毕业生深很多的基本功和工作技能。&lt;/p&gt;
 
@@ -175,7 +175,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;搭个站得自己写点代码，如果你也是程序员，你会懂的：“俺们码农征服了世界，但工资待遇还是上不去，不就是因为我们贱嘛~”。而且用&lt;a href='http://wowubuntu.com/markdown/'&gt;Markdown&lt;/a&gt;这种标记语言写东西简直像写&lt;a href='http://www.ruby-lang.org'&gt;RUBY&lt;/a&gt;一样欢快。&lt;span&gt;Markdown语法说明简体中文版&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;搭个站得自己写点代码，如果你也是程序员，你会懂的：“俺们码农征服了世界，但工资待遇还是上不去，不就是因为我们贱嘛~”。而且用&lt;a href='http://wowubuntu.com/markdown/'&gt;Markdown&lt;/a&gt;这种标记语言写东西简直像写&lt;a href='http://www.ruby-lang.org'&gt;RUBY&lt;/a&gt;一样欢快。&lt;a href='http://wowubuntu.com/markdown/'&gt;Markdown语法说明简体中文版&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
@@ -191,7 +191,7 @@
 
 &lt;h2 id='id1'&gt;简洁&lt;/h2&gt;
 
-&lt;p&gt;写点别人愿意看自己也愿意看的东西其实蛮难的，&lt;span&gt;微博&lt;/span&gt;和&lt;a href='http://twitter.com'&gt;twitter&lt;/a&gt;140字限制其实就是人们对简洁和高信息浓度表达的刚需啊！&lt;/p&gt;
+&lt;p&gt;写点别人愿意看自己也愿意看的东西其实蛮难的，&lt;a href='http://weibo.com'&gt;微博&lt;/a&gt;和&lt;a href='http://twitter.com'&gt;twitter&lt;/a&gt;140字限制其实就是人们对简洁和高信息浓度表达的刚需啊！&lt;/p&gt;
 
 &lt;p&gt;我就经常被老婆骂说啰嗦，论据靠痨论点靠猜，从这篇起我会尽量简洁，当然要是写到兴头上，稍带点味儿的语气助词我可绝TM不会省的：&lt;/p&gt;
 
